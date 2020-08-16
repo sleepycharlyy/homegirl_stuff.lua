@@ -8,7 +8,7 @@ function _init()
     -- create new window
     win = Window:new()
     -- make new prompt window
-    win:attach("prompt", Dia.Prompt:new("Simple Calculator", "Type in equation (Example: 1 + 2)"))
+    win:attach("prompt", Dia.Prompt:new("Simple Calculator", "Type in a equation (Example: 1 + 2)"))
         -- ondone function gets called when prompt is closed
         .ondone = function(prompt, input)
             if input then

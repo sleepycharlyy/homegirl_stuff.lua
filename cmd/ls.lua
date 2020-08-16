@@ -9,7 +9,7 @@ To use just put into your system_drive/cmd/
 -- Initalize (gets called on start)
 function _init(args)
 	-- Print out files in current directory
-	list_file_tree("/"..fs.cd());
+	list_file_tree(fs.cd());
 end
 
 -- Print out every file and directory in a specific directory
