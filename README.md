@@ -1,2 +1,3 @@
-# homegirl_stuff.lua
-stuff i programmed for the homegirl virtual computer
+# sleepycharlyy's homegirl stuffff
+
+stuff i made for the homegirl virtual computer
