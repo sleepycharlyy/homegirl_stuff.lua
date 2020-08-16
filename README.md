@@ -1,3 +1,4 @@
 # sleepycharlyy's homegirl stuffff
 
-stuff i made for the homegirl virtual computer
+Hewwo,  
+this is the stuff I made for the [homegirl](https://github.com/poeticAndroid/homegirl) virtual computer!
